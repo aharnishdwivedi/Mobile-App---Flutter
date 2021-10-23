@@ -25,7 +25,7 @@ flutter run
 
 Note: Project is under development at this stage
 
-## Documentation
+## Documentation - JOD
 
 A few resources to get you started if this is your first
 For help getting started with Flutter, view our
